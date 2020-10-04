@@ -8,4 +8,4 @@ Jessica DiMari,
 Chuyun Liu,
 Derek Acosta
 
-NOTE: This repository is not complete, I'm uploading the code right now so other contributors and other can understand
+NOTE: This repository is not complete, I'm uploading the code right now so other contributors and other can understand the code and the process better
